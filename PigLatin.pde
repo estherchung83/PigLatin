@@ -40,7 +40,7 @@ public String pigLatin(String sWord)
   
 	else
 	{
-		return "ERROR!";
+		return "ERROR";
 	}
   
     
